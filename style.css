@@ -322,7 +322,7 @@ p {
 }
 #services .service-item h2 {
 	font-size: 2rem;
-	color: white;
+	color: #fff;
 	margin-bottom: 10px;
 	text-transform: uppercase;
 }
