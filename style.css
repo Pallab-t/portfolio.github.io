@@ -298,6 +298,7 @@ p {
 	z-index: 1;
 	overflow: hidden;
 	height:450px:
+		
 }
 #services .service-item::after {
 	content: '';
@@ -309,6 +310,9 @@ p {
 	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
 	opacity: 0.9;
 	z-index: -1;
+}
+#services .service-item:hover{
+	 transform: scale(1.2); 
 }
 #services .service-bottom .icon {
 	height: 80px;
