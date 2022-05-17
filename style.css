@@ -297,7 +297,8 @@ p {
 	position: relative;
 	z-index: 1;
 	overflow: hidden;
-	height:450px:
+	height:450px;
+	transition: transform .9s;
 		
 }
 #services .service-item::after {
@@ -312,7 +313,7 @@ p {
 	z-index: -1;
 }
 #services .service-item:hover{
-	 transform: scale(1.2); 
+	transform: scale(1.2); 
 }
 #services .service-bottom .icon {
 	height: 80px;
