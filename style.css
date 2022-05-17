@@ -698,6 +698,7 @@ p {
 	#services .service-bottom .service-item {
 		flex-basis: 22%;
 		margin: 1.5%;
+		height: 450px;
 	}
 }
 /* End  Media Query For Desktop */
