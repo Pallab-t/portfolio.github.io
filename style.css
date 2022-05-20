@@ -313,6 +313,8 @@ p {
 	z-index: -1;
 }
 #services .service-item::hover{
+	ms-transform: scale(1.5);
+	webkit-transform: scale(1.5);
 	transform: scale(1.2); 
 }
 #services .service-bottom .icon {
