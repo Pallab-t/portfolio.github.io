@@ -592,6 +592,8 @@ p {
 
 	/* Services Section */
 	#services .service-bottom .service-item {
+		padding: 50px;
+        transition: transform .2s;
 		flex-basis: 45%;
 		margin: 2.5%;
 	}
