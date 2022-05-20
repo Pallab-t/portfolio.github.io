@@ -292,7 +292,7 @@ p {
 	padding: 30px;
 	border-radius: 10px;
 	background-image: url(./img/img-1.5.png);
-	background-size: cover;
+	background-size: contain;
 	margin: 10px 5%;
 	position: relative;
 	z-index: 1;
